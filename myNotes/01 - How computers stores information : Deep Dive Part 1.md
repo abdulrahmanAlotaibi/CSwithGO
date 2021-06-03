@@ -1,4 +1,4 @@
-# How computers stores information : Deep Dive Part 1
+# How computers stores information : Deep Dive Part 1 ⚡
 
 ![image](https://user-images.githubusercontent.com/50620277/120699242-d3b7d980-c4b8-11eb-8159-49daa5f5ee99.png)
 
@@ -32,3 +32,12 @@ open(1) or close(0) , volt(1) or no-volt(0).
 ### Logic Gates Implementation : AND , OR, NOT
 
 ![image](https://user-images.githubusercontent.com/50620277/120699633-517be500-c4b9-11eb-84c6-dfd5cb08d7d8.png)
+
+### References and Additional Research 📑:
+
+- [AND OR NOT - Logic Gates Explained - Computerphile](https://www.youtube.com/watch?v=UvI-AMAtrvE&ab_channel=Computerphile)
+
+- [Basic Logic Gates](http://www.ee.surrey.ac.uk/Projects/CAL/digital-logic/gatesfunc/index.html)
+
+- [A book chapter about boolean algebra](https://www.pbte.edu.pk/text%20books/dae/math_123/Chapter_11.pdf)
+
