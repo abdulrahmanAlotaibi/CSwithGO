@@ -15,3 +15,26 @@
 - So any type of data, either it's an image , text, number or anything will be converted to binaries , and from binaries we could store that binary, process it, and convert it back to original human readable form whether it's audio or any other types of data
 - In this illustration we can see how we represent numbers in both system (Base 10, and base 2)
 
+![04](https://user-images.githubusercontent.com/50620277/120701876-17f8a900-c4bc-11eb-8e18-ba38fd74ac8d.png)
+
+### Text
+- a text is just a collection of characters, and representing characters in computers happens in 2 steps
+    - A way to map a character to a number
+        - We use [ASCCI](http://www.asciitable.com/) for able
+        - Also we use [Unicode](https://home.unicode.org/) table for representing all languages and and their symbols
+    - convert the number to a binary
+
+### Images
+- Images are collection of colors, and representing colors in a computer happens in 2 steps
+    - A system to map a color to number
+        - Most common system is RGB
+    - converting the number to  binary digits
+
+### Video
+- A Video is a collection of images
+
+Extra resources : 
+
+- [Introduction to number systems and binary (video) | Khan Academy](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
+- [Decimal to Binary Converter](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+- [CS50: Lecture 0](https://cs50.harvard.edu/college/2021/spring/notes/0/#:~:text=multiple%20times%20a%20second%20to%20give%20us%20the%20appearance%20of%20motion)
