@@ -1,4 +1,7 @@
-# How computers stores information : Deep Dive Part 2
+# How computers stores information : Deep Dive Part 2 ⚡
+
+![image](https://user-images.githubusercontent.com/50620277/120702472-c7ce1680-c4bc-11eb-95c6-f79732bc484c.png)
+
 - types of data in the real world
     - Text
     - Numbers
